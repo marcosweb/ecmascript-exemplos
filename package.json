@@ -1,0 +1,32 @@
+{
+  "name": "ecmascript-exemplos",
+  "version": "1.0.0",
+  "description": "exemplos ecmascript",
+  "main": "src/async-await.js",
+  "dependencies": {
+    "express": "4.16.2",
+    "body-parser": "1.18.2",
+    "node-schedule": "1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosweb/ecmascript-exemplos.git"
+  },
+  "keywords": [
+    "ecmascript",
+    "exemplos"
+  ],
+  "author": "Marcos Sousa <devmarcosweb@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosweb/ecmascript-exemplos/issues"
+  },
+  "homepage": "https://github.com/marcosweb/ecmascript-exemplos#readme"
+}
